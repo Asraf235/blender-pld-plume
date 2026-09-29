@@ -9,8 +9,8 @@ the substrate, where a thin film is deposited.
 
 ## Contents
 
-- `PLD_plume.blend` – the Blender scene
-- `render/` – example rendered images
+- `PLD_plume.blend`  the Blender scene. This file can be modified as per user case for example one can include in-situ diagnostics.
+- `render/`  example rendered images
 
 ## Requirements
 
